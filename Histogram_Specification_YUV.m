@@ -11,10 +11,10 @@
 clc, clear all, close all;
 
 % Load input & reference image
-inputPath='D:\My Documents\Yuan Ze University\Dropbox\Master\Image Processing\Assignment 1 - Histogram Specification\lena.jpg';
-refPath='D:\My Documents\Yuan Ze University\Dropbox\Master\Image Processing\Assignment 1 - Histogram Specification\1.jpg';
-refPath2='D:\My Documents\Yuan Ze University\Dropbox\Master\Image Processing\Assignment 1 - Histogram Specification\2.jpg';
-refPath3='D:\My Documents\Yuan Ze University\Dropbox\Master\Image Processing\Assignment 1 - Histogram Specification\3.jpg';
+inputPath='Your_Path_1';
+refPath='Your_Path_2';
+refPath2='Your_Path_3';
+refPath3='Your_Path_4';
 
 inputImg=imread(inputPath);
 refImg=imread(refPath);
